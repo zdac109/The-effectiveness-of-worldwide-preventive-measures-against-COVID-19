@@ -1,0 +1,34 @@
+Policy,Correlation,Time Dealy (days)
+H7_Vaccination policy,0.526738818,-73
+H6_Facial Coverings,0.393208435,-1
+H2_Testing policy,0.350519044,-4.5
+C4_Restrictions on gatherings,0.303195356,-1
+C6_Stay at home requirements,0.301417809,-6.5
+C2_Workplace closing,0.280486385,-4
+H8_Protection of elderly people,0.261738284,-2
+C3_Cancel public events,0.261555241,-1
+E1_Income support,0.261294793,-1
+C7_Restrictions on internal movement,0.240618805,-40
+stringency_index,0.223504682,-6.5
+C5_Close public transport,0.218280718,-50.5
+E2_Debt/contract relief,0.214789718,-17
+C7_Flag,0.198060338,-211
+C1_School closing,0.197793124,-15
+H3_Contact tracing,0.195000878,-132.5
+C8_International travel controls,0.154092448,-186.5
+C6_Flag,0.147881937,-251.5
+C2_Flag,0.143058638,-297.5
+C1_Flag,0.124925103,-416
+C4_Flag,0.109979301,-420
+C3_Flag,0.106346388,-529
+H1_Public information campaigns,0.07119674,-544
+C5_Flag,0.04776718,-564.5
+E3_Fiscal measures,0.013230756,-278
+H4_Emergency investment in healthcare,0.012003785,-269
+E4_International support,0,-624
+H1_Flag,0,-624
+E1_Flag,0,-624
+H5_Investment in vaccines,0,-624
+H6_Flag,0,-624
+H7_Flag,0,-624
+H8_Flag,0,-624
